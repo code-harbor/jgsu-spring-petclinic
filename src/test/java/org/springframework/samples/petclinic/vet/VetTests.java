@@ -40,7 +40,12 @@ class VetTests {
 
 	@Test
 	void testSome() {
-		System.out.println();
+		System.out.println("1");
+	}
+
+	@Test
+	void testSomeTwo() {
+		System.out.println("2");
 	}
 
 }
